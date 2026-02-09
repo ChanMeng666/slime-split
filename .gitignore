@@ -1,0 +1,5 @@
+build/
+*.love
+node_modules/
+love.js.cache/
+.claude/
